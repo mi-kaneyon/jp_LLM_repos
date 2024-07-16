@@ -1,6 +1,8 @@
 # jp_LLM_repos
 Japanese LLM model trial sample
 
+- test samples which are Japanese < > English model study sample
+
 # samples
 
 ## Rakuten AI 7B Rakuten
