@@ -30,7 +30,7 @@ python capword.py
 ```
 **response**
 
-[sample](calm3_mention.png)
+![calm3_mention](https://github.com/user-attachments/assets/4876433b-70d5-45cc-ba51-0cbe80f5d3ee)
 
 ```
 人物検出: この人物の特徴を説明してください。
