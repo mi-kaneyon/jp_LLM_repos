@@ -2,6 +2,9 @@
 Japanese LLM model trial sample
 
 - test samples which are Japanese < > English model study sample
+## Rakuten AI 7B and calm2-7b-chat
+- person detection and mention his/her impression secript
+- normal chat 
 
 # samples
 
@@ -9,6 +12,7 @@ Japanese LLM model trial sample
 
 https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/LLM_Proj
 - Rakuten AI 7B Rakuten Japanese LLM
+- It is optimized for low VRAM GPU PC such a laptop.
 
 
 ## calm2-7b-chat_example
