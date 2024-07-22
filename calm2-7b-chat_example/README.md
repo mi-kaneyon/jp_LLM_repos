@@ -99,8 +99,12 @@ ASSISTANT: 主人公である「森村天真」は、人並み外れた身体能
 
 ```
 
+# Japanese language test creator sample version
 
+```
+python ca_teach.py
 
+```
 
 # License / citiation
 @misc{jinnai2024doescrossculturalalignmentchange,
