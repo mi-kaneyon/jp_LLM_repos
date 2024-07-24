@@ -69,3 +69,9 @@ Agent A: その提案は素晴らしいです。地元の飲食店がドリア�
 4. 地元の飲食
 
 ```
+
+# Citation
+@article{qwen2,
+  title={Qwen2 Technical Report},
+  year={2024}
+}
