@@ -19,6 +19,12 @@ https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/LLM_Proj
 https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/calm2-7b-chat_example
 - cyberagent calm2-7B LLM 
 
+## Qwen2_chat samples
+
+https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/Qwen2_script
+- Qwen2-7B-instruct
+
+
 ## llamacpp_mod (Gemma2 based)
 https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/llamacpp_mod
 - llama-cpp-python and Gemma2 model using 
