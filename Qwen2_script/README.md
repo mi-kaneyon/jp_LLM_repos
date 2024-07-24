@@ -1,4 +1,8 @@
 # Qwen2_script samples
+
+Qwen model download from：
+https://huggingface.co/Qwen/Qwen2-7B-Instruct
+
 - Based on Qwen2-7B-instruct script samples
 - It is Japanese version. but easy to modify change Chinese / English
 
