@@ -27,4 +27,11 @@ https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/Qwen2_script
 
 ## llamacpp_mod (Gemma2 based)
 https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/llamacpp_mod
-- llama-cpp-python and Gemma2 model using 
+- llama-cpp-python and Gemma2 model using
+
+## InternLM2.5 7B chat samples
+https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/InternLM25-7B
+- InternLM
+https://github.com/InternLM/InternLM
+
+  
