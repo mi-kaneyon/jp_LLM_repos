@@ -34,4 +34,8 @@ https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/InternLM25-7B
 - InternLM
 https://github.com/InternLM/InternLM
 
-  
+# Japanese test tool
+- DIY Japanese sentence reading test creator
+
+https://github.com/mi-kaneyon/man-yard/tree/main/Japanese_sentence
+
