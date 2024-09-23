@@ -4,6 +4,10 @@ Japanese LLM model trial sample
 - 日本語サマリー
 　https://zenn.dev/manyan3/articles/175977d27c4c50
 
+> [!NOTE]
+> rakuchat_savemem.py is optimized for low VRAM note PC.
+> New added script in Sep.
+
 
 - test samples which are Japanese < > English model study sample
 ## Rakuten AI 7B and calm2-7b-chat
