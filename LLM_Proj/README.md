@@ -1,3 +1,7 @@
+# Jp LLM conversation  / instuction / create questions 
+- 日本語メインでなにかしてみる
+- En-JP-Cn main local LLM? Picked up Chinese, Japanese vendor.
+
 # ROWVAMR Rakuten AI 7B Rakuten Japanese LLM
 - Base on Hugginface project
 - Install transformers
