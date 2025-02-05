@@ -8,7 +8,7 @@ import gc
 # =============================================
 # 1. ローカルモデルのパス設定
 # =============================================
-local_model_path = "/media/kanengi/0a4bbc0b-5d3f-479e-8bc4-b087704b7b5d/gemma/llama3/Llama-3.2-11B-Vision"
+local_model_path = "your path and model/Llama-3.2-11B-Vision"
 
 # =============================================
 # 2. Llamaモデルのロード（オフロード付き）
