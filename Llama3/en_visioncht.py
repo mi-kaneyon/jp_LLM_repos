@@ -7,7 +7,7 @@ import gc
 # =============================================
 # 1. Set the local model path (directory for LlamaV-o1)
 # =============================================
-local_model_path = "/media/kanengi/0a4bbc0b-5d3f-479e-8bc4-b087704b7b5d/gemma/llama3/LlamaV-o1"
+local_model_path = "your path to/LlamaV-o1"
 
 # =============================================
 # 2. Quantization configuration and model loading (4-bit example)
@@ -65,7 +65,7 @@ def capture_image():
     return image if captured and image is not None else None
 
 # =============================================
-# 5. Function to generate a description of the image content
+# 5. Function to generate a description of the image content # you can change question sentece.
 # =============================================
 def generate_image_description(input_image):
     """
