@@ -8,8 +8,14 @@ Japanese LLM model trial sample
 > rakuchat_savemem.py is optimized for low VRAM note PC.
 > New added script in Sep.
 
+## New added model (6th Feb 2025)
+## Llama3 
+- LlamaV-o1 based and Llama-3.2-11B-Vision
+
+https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/Llama3
 
 - test samples which are Japanese < > English model study sample
+  
 ## Rakuten AI 7B and calm2-7b-chat
 - person detection and mention his/her impression secript
 - normal chat 
