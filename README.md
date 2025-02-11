@@ -9,6 +9,12 @@ Japanese LLM model trial sample
 > New added script in Sep.
 
 ## New added model (6th Feb 2025)
+## Janus-Pro-7B 
+
+https://github.com/mi-kaneyon/jp_LLM_repos/tree/main/Janus-ProLaptop
+
+- Using text instruction only 
+
 ## Llama3 
 - LlamaV-o1 based and Llama-3.2-11B-Vision
 
